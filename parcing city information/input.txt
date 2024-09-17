@@ -1,0 +1,20 @@
+Rochester,NY,14614
+Evanston,IL,60208
+Apache Junction,AZ,85219
+Oklahoma City,OK,73124-2412
+Augusta,GA,30911
+Newark,NJ,07195
+Birmingham,AL,35285-2949
+Fairfield,CT,06825
+Portland,OR,97201
+Evansville,IN,47732
+Louisville,KY,40298-1912
+Pittsburgh,PA,15240
+Oklahoma City,OK,73124
+Charleston,SC,29411
+Fresno,CA,93778-5311
+Lancaster,PA,17605
+Spokane,WA,99252
+Champaign,IL,61825
+Boca Raton,FL,33487
+Boston,MA,02109
